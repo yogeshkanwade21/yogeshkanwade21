@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋 I am Yogesh Kanwade </h1>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/yogesh-kanwade-b13405265">
+  <a href="https://www.linkedin.com/in/yogesh-kanwade-b13405265">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:yogeshkanwade2015@gmail.com">
