@@ -20,7 +20,8 @@
 
 
 ## 📊 GitHub Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkanwade21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkanwade21&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkanwade21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <div id="profile-views" align="left">
   <img src="https://komarev.com/ghpvc/?username=yogeshkanwade21&style=flat-square&color=blue" alt=""/>
 </div>
