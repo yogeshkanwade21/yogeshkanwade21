@@ -1,12 +1,12 @@
 <h1 align="center"> Hello 👋 I am Yogesh Kanwade </h1>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yogesh-kanwade-b13405265">
+  <a href="https://www.linkedin.com/in/yogesh-kanwade-b13405265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:yogeshkanwade2015@gmail.com">
+  <a href="mailto:yogeshkanwade2015@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://yog3sh.hashnode.dev/">
+  <a href="https://yog3sh.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
 </div>
